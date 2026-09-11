@@ -1,0 +1,75 @@
+{
+  "id": "artieficr-the-sablewood-messengers",
+  "title": "Artieficr. The Sablewood Messengers",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>This adventure is a port of <strong>The Sablewood Messengers</strong>, the free Daggerheart Quickstart Adventure by Darrington Press.</p><p dir=\"ltr\">This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC, under the terms of the Darrington Press Community Gaming License (DPCGL). More information can be found at <a href=\"https://www.daggerheart.com/\">daggerheart.com</a>.</p><p dir=\"ltr\">Darrington Press™ and the Darrington Press authorized work logo are trademarks of Critical Role, LLC, and used with permission.</p>",
+  "manifest": "https://github.com/Artieficr/sablewood-messengers/releases/latest/download/module.json",
+  "download": "https://github.com/Artieficr/sablewood-messengers/releases/latest/download/sablewood-messengers.zip",
+  "authors": [
+    {
+      "name": "Artieficr",
+      "email": "artieficr@pm.me",
+      "url": "https://artieficr.vercel.app/",
+      "discord": "Artieficr",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Artieficr/sablewood-messengers",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "artieficr-the-sablewood-messengers",
+      "label": "The Sablewood Messengers",
+      "path": "packs/artieficr-the-sablewood-messengers",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "cs-click-to-scene",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "daggerheart-enhanced-ui",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "daggerheart-spotlight-carousel",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-calculator",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
