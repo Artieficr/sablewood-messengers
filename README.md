@@ -3,6 +3,7 @@
 [![Current Version](https://img.shields.io/github/v/release/Artieficr/sablewood-messengers?style=for-the-badge&label=Current%20Version)](https://github.com/Artieficr/sablewood-messengers/releases/latest)
 [![Latest Release Download Count](https://img.shields.io/github/downloads/Artieficr/sablewood-messengers/latest/total?label=Downloads&style=for-the-badge)](https://github.com/Artieficr/sablewood-messengers/releases/latest)
 ![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2FArtieficr%2Fsablewood-messengers%2Fmain%2Fmodule.json&label=Foundry%20Version&query=$.compatibility.verified&colorB=green&style=for-the-badge)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/artieficr)
 
 <p align="center">
   <img width="400" src=".github/assets/DH_CGL_logos_final_full_color.png">
