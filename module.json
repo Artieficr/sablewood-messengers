@@ -1,7 +1,7 @@
 {
   "id": "artieficr-the-sablewood-messengers",
   "title": "Artieficr. The Sablewood Messengers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -53,6 +53,7 @@
       {
         "id": "daggerheart-enhanced-ui",
         "type": "module",
+        "manifest": "https://github.com/Artieficr/daggerheart-enhanced-ui/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
