@@ -13,6 +13,9 @@ An unofficial Foundry VTT conversion of **The Sablewood Messengers**, the free D
 Quickstart Adventure by Darrington Press — a complete Tier 1 one-shot with ready-to-run
 scenes, pregens, NPCs, music, and journal entries.
 
+The original adventure PDF is available for free from Darrington Press:
+[Sablewood-05-20-25.pdf](https://www.daggerheart.com/wp-content/uploads/2025/05/Sablewood-05-20-25.pdf)
+
 ## Requirements
 
 - Foundry VTT v14 (minimum/verified)
@@ -44,6 +47,10 @@ Recommended:
 - no AI used for creation of this module
 
 ## Attributions
+
+If any author credited below objects to their work being used in this module, please
+raise an issue on this repository or contact me directly at artieficr@pm.me and it will
+be addressed.
 
 ### Source Adventure
 
