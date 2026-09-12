@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Artieficr/sablewood-messengers/releases/latest"><img alt="Current Version" src="https://img.shields.io/github/v/release/Artieficr/sablewood-messengers?style=for-the-badge&label=Current%20Version"></a>
-  <a href="https://github.com/Artieficr/sablewood-messengers/releases/latest"><img alt="Latest Release Download Count" src="https://img.shields.io/github/downloads/Artieficr/sablewood-messengers/latest/total?label=Downloads&style=for-the-badge"></a>
+  <a href="https://github.com/Artieficr/sablewood-messengers/releases"><img alt="Total Download Count" src="https://img.shields.io/github/downloads/Artieficr/sablewood-messengers/total?label=Downloads&style=for-the-badge"></a>
   <img alt="Foundry Core Compatible Version" src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2FArtieficr%2Fsablewood-messengers%2Fmain%2Fmodule.json&label=Foundry%20Version&query=$.compatibility.verified&colorB=green&style=for-the-badge">
   <a href="https://ko-fi.com/artieficr"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
