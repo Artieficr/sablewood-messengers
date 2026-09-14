@@ -73,7 +73,7 @@ Role, LLC, and used with permission.
 - **Placeable tiles** — [Forgotten Adventures](https://www.forgotten-adventures.net/), used under their license
 - **Fidget portrait** — adapted from X Train's [ArtStation artwork](https://www.artstation.com/artwork/9eLL1Q)
 - **Halythons Fives portrait** — adapted from [Reddit: Daggerheart NPCs (Hero Forge)](https://www.reddit.com/r/daggerheart/comments/1lyvkkn/npcs_for_quick_start_adventure_made_in_heroforge/)
-- **Lausa Standworth portrait** adapted from Grace Liu's [ArtStation artwork](https://www.artstation.com/artwork/Ky8yX)
+- **Lausa Standworth portrait** — adapted from Grace Liu's [ArtStation artwork](https://www.artstation.com/artwork/Ky8yX)
 - **Hush houses** — adapted from Emelie Vaccarini's [ArtStation artwork](https://www.artstation.com/artwork/R3VG0O)
 
 ### Audio — Ambience & SFX
